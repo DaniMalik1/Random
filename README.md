@@ -13,7 +13,7 @@ pkg install git
 
 rm -rf Dani
 
-git clone https://😍github.com/DaniMalik1.git
+git clone https://😍github.com/DaniMalik1/Random.git
 
 cd Random😍
 
